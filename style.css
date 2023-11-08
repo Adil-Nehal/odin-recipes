@@ -1,0 +1,23 @@
+body {
+    background-color: wheat;
+    max-width: 62vw;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.main-heading {
+    font-family: "Z003", Garamond, 'Times New Roman', serif;
+    font-size: 42px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+
+.food-img {
+    height: 380px;
+    width: auto;
+}
+
+li {
+    max-width: 6    0vw;
+}
