@@ -3,6 +3,7 @@ body {
     max-width: 62vw;
     margin: auto;
     padding-bottom: 50px;
+    line-height: 30px;
 }
 
 .main-heading {
@@ -19,5 +20,53 @@ body {
 }
 
 li {
-    max-width: 6    0vw;
+    max-width: 60vw;
+}
+.ingredients-steps-container{
+    background-color: rgb(224, 204, 166);
+    padding: 12px;
+}
+.recipe-details-container{
+
+}
+.recipe-details-content{
+    float: right;
+    display: inline-block;
+    background-color: rgb(224, 204, 166);
+    height: 380px;
+    box-sizing: border-box;
+    padding: 6px 20px;
+}
+#lasagna{
+    width: 335px;
+    margin-left: 5px;
+}
+#pumpkin-pie{
+    width: 460px;
+    margin-left: 5px;
+}
+#coconut-curry-soup{
+    width: 460px;
+    margin-left: 5px;
+}
+dl{
+    
+}
+hr{
+   color: rgb(224, 204, 166);
+}
+dt{
+    font-weight: bold;
+    margin-top: 8px;
+}
+dd{
+    display: block;
+    margin-left: 0px;
+}
+#test{
+    list-style-type: none;
+    display: inline;
+}
+#test li{
+    margin-top: 2px
 }
